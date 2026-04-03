@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail44.png" width="800">
+</p>
+---
 # 🧠 Customer Spend Analysis using Hierarchical Clustering
 
 An advanced Machine Learning project that segments customers based on their income and spending behavior using **Hierarchical Clustering (Agglomerative Clustering)**. This project is deployed as an interactive **Streamlit Web App** for real-time data analysis and visualization.
@@ -98,9 +102,11 @@ The model typically identifies:
 ---
 
 ## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Customer-spent-analysis-using-Hierarchical-Clustering.git)
 
-* 💼 LinkedIn: https://www.linkedin.com/in/senthamil45
-* 💻 Portfolio: https://senthamill.vercel.app/
+
 * 📧 Email: [senthamils445@gmail.com](mailto:senthamils445@gmail.com)
 
 ---
